@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/24f2b976-29fc-4888-9d8a-e941dc508b99/resourceGroups/swapdep-1/providers/Microsoft.Web/sites/swap-dep-1",
+    "appService.deploySubpath": "."
+}
